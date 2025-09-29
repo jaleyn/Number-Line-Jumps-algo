@@ -1,1 +1,1 @@
-# Number-Line-Jumps-algo
+# Number-Line-Jumps-algo This program determines if two kangaroos starting at different positions but jumping forward at fixed distances will ever land on the same spot at the same time. It checks the relative speed and distance difference to return "YES" if they meet, otherwise "NO".
